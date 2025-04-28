@@ -30,10 +30,10 @@ body {
   border-radius: 20px;
   border: 1px solid hsl(0, 0%, 7%);
   padding-block: 20px;
-  /* margin-bottom: 10px; */
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .card{
